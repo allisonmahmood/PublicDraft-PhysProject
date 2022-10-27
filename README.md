@@ -2,7 +2,7 @@
   
   
 > Public repo showing the structure used by Allison Mahmood in his Physics Project  
-> Files contained include materials from Cardiff University and should not be copied or redistributed without permission of the university
+> Files contained include materials from Cardiff University and other sources and should not be copied or redistributed without permission of the owner of the material
   
 ### __PX3350__ - Physics Project &nbsp;  `Project`  
   
